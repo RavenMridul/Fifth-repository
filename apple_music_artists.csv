@@ -1,0 +1,201 @@
+artist_id,name,country,debut_year
+1,Jessica Parker,Belgium,1997
+2,Tonya Hess,Romania,1991
+3,Tammy Stanton,Turks and Caicos Islands,2007
+4,Kim Foster,Iraq,2005
+5,Lauren Johnson,Ghana,2004
+6,Krystal Green,Trinidad and Tobago,1998
+7,Nicholas Gallegos,Bangladesh,1996
+8,Taylor Evans,Denmark,1995
+9,Mary Hanson,Tonga,2017
+10,Michael Nguyen,Cote d'Ivoire,1992
+11,Robert Thomas,Latvia,1991
+12,Raymond Hoffman,Paraguay,1995
+13,Casey Lopez,Cyprus,2003
+14,Kelly Goodwin,Bermuda,2004
+15,Tyler Green,Poland,2022
+16,Christopher Hernandez,Western Sahara,1991
+17,Veronica Welch,Guernsey,2002
+18,Patrick Lopez,Azerbaijan,2016
+19,Brandon Williams,Burundi,2004
+20,Steve Ward,Slovenia,2018
+21,Kayla Gonzales,Eritrea,2007
+22,Joseph Floyd,Iraq,1990
+23,Joshua Jefferson,Namibia,2000
+24,Heidi Jackson,South Georgia and the South Sandwich Islands,2017
+25,Warren Lopez,Mongolia,2011
+26,Albert Thompson,Rwanda,2007
+27,John Lewis,United States of America,1999
+28,Ashley Johnson,Mayotte,2003
+29,Steven Patrick,Slovenia,2011
+30,Paula Martin,Zimbabwe,1996
+31,Madison Cook,Togo,1995
+32,Lindsey Krueger,French Southern Territories,2014
+33,Rhonda Johnson,Russian Federation,1996
+34,Julie Jones,Australia,2012
+35,Marissa King,Croatia,2012
+36,Mark Young,Indonesia,2006
+37,Beth Barrett,Uruguay,1992
+38,Scott Ware,Ireland,2019
+39,Alexander Berry,Svalbard & Jan Mayen Islands,1997
+40,Sherry Smith,French Southern Territories,2014
+41,Mrs. Susan Watson,Saint Vincent and the Grenadines,1995
+42,Stephanie Lee,United States of America,2008
+43,Brandy Olson,Antigua and Barbuda,2013
+44,Matthew Patterson,Ireland,2002
+45,Cassie Cunningham,Slovakia (Slovak Republic),1994
+46,Sarah Williams,Papua New Guinea,1992
+47,Kelly Diaz,Mauritius,2004
+48,Patricia Garrett,Algeria,2008
+49,James Clay,Chile,1995
+50,Ronald West,Kiribati,2004
+51,Elizabeth Knight,Suriname,1996
+52,Andrea Brown,Saint Helena,2014
+53,Sarah Carlson,Mayotte,2007
+54,Joseph Watkins,Belarus,2019
+55,Phillip Johnson,Greenland,2013
+56,Joanne Orozco,Botswana,2000
+57,James Lopez,Mozambique,2013
+58,Gary Willis,Djibouti,2012
+59,Jamie Yates,Barbados,2003
+60,Lauren Hess,Senegal,2007
+61,Carolyn Rivera,New Zealand,1994
+62,Lindsey Jones,Ecuador,2000
+63,Kimberly Webb,Latvia,2005
+64,Dana Thompson,Grenada,2000
+65,Dustin Shaw,Gibraltar,2019
+66,Julia Ramirez,Lebanon,2014
+67,Jamie Collins,Lithuania,2007
+68,Cynthia Petty,Germany,2004
+69,Kevin Carter,Malawi,2010
+70,Tiffany Murphy,Palestinian Territory,1993
+71,Mark Moon,Cuba,2004
+72,Robin Anderson,Gambia,1992
+73,Jason Brown,Faroe Islands,2010
+74,Joseph King,Burkina Faso,2015
+75,Christina Yates,Nigeria,2007
+76,Kevin Walter,Honduras,1994
+77,Mark Robinson,Swaziland,2003
+78,Mindy Hunt,Brunei Darussalam,2010
+79,Ian Roman,Belarus,2003
+80,Nathaniel Deleon,Taiwan,2021
+81,Angela Huff,Saint Martin,2015
+82,David Henderson,Spain,2019
+83,James Gomez,Uganda,1999
+84,Stacy Randolph,Bhutan,2006
+85,Andre Simmons,American Samoa,1998
+86,Gina Watkins,Slovenia,2005
+87,Heather Nguyen,Vietnam,2006
+88,Rebecca Robinson,Tanzania,2017
+89,Robert Scott,Mauritius,2015
+90,Justin Mcguire,Liechtenstein,2013
+91,Timothy Brown,Peru,2004
+92,Joseph Moody,Australia,1998
+93,Michelle Hernandez,Antarctica (the territory South of 60 deg S),2022
+94,Tracy Rose,Jamaica,2021
+95,Dawn Estrada,Guam,1995
+96,Christopher Paul,Guatemala,1993
+97,Jonathan Parker,Indonesia,1997
+98,Theodore Warren,Russian Federation,1999
+99,Sergio Bell,Norway,2000
+100,Tracey Williams,Bulgaria,2017
+101,Jordan Espinoza,Netherlands,1994
+102,Jason Rodriguez,Belize,2014
+103,Lisa Munoz,Costa Rica,2014
+104,Rebecca Contreras,Lithuania,2019
+105,Theodore Robinson,Mozambique,2023
+106,Mrs. Lisa Frazier MD,Faroe Islands,2006
+107,Chelsea Wood,Switzerland,1990
+108,Eric Douglas,Estonia,1997
+109,Rhonda Johnson,Portugal,2007
+110,Kimberly Hayes,Saint Martin,2011
+111,Christopher Jones,Saint Barthelemy,1997
+112,Paul Curtis,Falkland Islands (Malvinas),2008
+113,Tiffany Solomon,Australia,2017
+114,Jennifer Drake,Benin,2000
+115,Aaron Campbell,Nauru,2019
+116,Melissa Coleman,Finland,1990
+117,Bobby King,Romania,2006
+118,Steven Dean,Macao,2022
+119,Joel Graves,Christmas Island,2001
+120,Mrs. Samantha Hicks,Taiwan,2022
+121,Eddie Stuart,China,1996
+122,Carl Gates,Moldova,2009
+123,Ann Bryant,Northern Mariana Islands,2022
+124,Jack Nelson,Jamaica,2002
+125,Nathaniel Savage,Thailand,1999
+126,Michael Coleman,Nigeria,2013
+127,Joseph Phillips,Trinidad and Tobago,2000
+128,Roy Green,Zambia,2023
+129,Lisa Alvarez,Saudi Arabia,1990
+130,Justin Goodman,Monaco,2010
+131,Sheena Duran,Iceland,2021
+132,Trevor Rodriguez,Papua New Guinea,1991
+133,David Gibbs,Libyan Arab Jamahiriya,1997
+134,Daniel Whitaker,Kiribati,2013
+135,Kathryn Burns,Burundi,2009
+136,Benjamin Yoder,Poland,2005
+137,Paul Wood,Tonga,1993
+138,Shawn Lane,Greece,2005
+139,James Robinson,Cook Islands,1995
+140,Hannah Franklin,Solomon Islands,1995
+141,Jeffrey Petty,Guyana,2021
+142,Martin Peterson,Liberia,1994
+143,Patricia Burns,Egypt,1998
+144,Nicolas Hunter,Cameroon,1998
+145,David Howard,Senegal,2020
+146,Kellie Williams,Ireland,2000
+147,James Kane,Canada,2006
+148,Eric Hall,Martinique,2023
+149,Thomas Gordon MD,Greenland,2017
+150,Jeremy Cunningham,Cambodia,2003
+151,Charles Davis,Mexico,2002
+152,Cody Aguilar,Czech Republic,2009
+153,Angela Gilbert,Montenegro,2015
+154,Richard Hernandez,Argentina,2013
+155,Malik Boyd,Pitcairn Islands,2018
+156,Joshua Brown,Marshall Islands,2023
+157,Todd Wright,Cyprus,2018
+158,Meghan Watson,Montserrat,1997
+159,Pamela Brown,Congo,2005
+160,Donald Fields,Greece,2004
+161,Ricky Jacobs,Nauru,1994
+162,Cindy Baker,Portugal,2011
+163,Sean Young,Somalia,1991
+164,Jeremy Hoffman,South Georgia and the South Sandwich Islands,2004
+165,Heather Love,Cook Islands,2004
+166,Jennifer Anderson,French Southern Territories,1990
+167,David Rivas,Antarctica (the territory South of 60 deg S),1994
+168,Tina Ibarra,Cuba,1993
+169,Vincent Martinez,Cayman Islands,2004
+170,Kevin Parks,Thailand,1994
+171,Kelsey Vance MD,Yemen,1992
+172,Peter Murphy,Palau,2011
+173,Cynthia Farrell,Myanmar,1994
+174,Alexis Thompson,Burundi,2022
+175,Christy Young,Chile,2005
+176,Melissa Ray,Sri Lanka,2007
+177,Mackenzie Smith,Guinea,2021
+178,Sarah Jensen,Yemen,2003
+179,Eric Mendoza,Mozambique,1998
+180,Melissa Jones,British Indian Ocean Territory (Chagos Archipelago),2020
+181,Ivan Miller,Guinea-Bissau,2005
+182,Hannah Montoya MD,Tuvalu,2020
+183,Glenn Ward DDS,Albania,2016
+184,Kimberly Howard,Cote d'Ivoire,2002
+185,Trevor Johnson,Brazil,1996
+186,Jennifer Clark,Andorra,1996
+187,Craig Patterson,Mauritius,2017
+188,Dr. Kathleen Smith MD,Ethiopia,2012
+189,Ian Long,Portugal,2017
+190,Darrell Campbell,New Zealand,2016
+191,Julie Adkins,Hong Kong,2019
+192,Kyle Ramirez,Romania,1993
+193,Terrence Farmer,Mauritania,1996
+194,Jenny Carlson,Pakistan,1993
+195,Chad Wise,Northern Mariana Islands,2015
+196,Amanda Hester,Australia,2011
+197,Karen Mendoza,Congo,1996
+198,Julia Duncan,Korea,2005
+199,Jesse Odom,Panama,2002
+200,Nicole Smith,Botswana,2002
